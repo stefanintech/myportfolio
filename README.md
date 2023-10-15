@@ -14,11 +14,11 @@ When I improve the project, I would begin with using a framework to increase eff
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Let's Connect 👋🏽
-- [Twitter](https://twitter.com/codewithfan)
+- [Twitter](https://twitter.com/stefanintech)
 - [LinkedIn](https://www.linkedin.com/in/stefantaitano/)
 
 ## Examples ⤵️
-Take a look at my other projects that I have in my own portfolio:
+Take a look at the other projects that I have in my own portfolio:
 
 **Star Trek Field Guide:** https://github.com/codewithfan/star-trek-client
 
