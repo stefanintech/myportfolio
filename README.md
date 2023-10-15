@@ -1,5 +1,5 @@
 # <a target="_blank" href="https://stefantaitano.dev/">Stefan Portfolio</a> 💻
-<img src="https://github.com/codewithfan/myportfolio/blob/main/personal-profile.gif">
+<img src="https://github.com/stefanintech/myportfolio/blob/main/personal-profile.gif">
 
 ## Lessons Learned 💭
 Implementing a dark mode feature was a new challenge. Instead of adding a specific color to each element, I would create specific color functions for dark/light, and apply them to the elements.
@@ -20,8 +20,8 @@ When I improve the project, I would begin with using a framework to increase eff
 ## Examples ⤵️
 Take a look at the other projects that I have in my own portfolio:
 
-**Star Trek Field Guide:** https://github.com/codewithfan/star-trek-client
+**Star Trek Field Guide:** https://github.com/stefanintech/star-trek-client
 
-**Guam Stargazer Society:** https://github.com/codewithfan/nasa-pod
+**Guam Stargazer Society:** https://github.com/stefanintech/nasa-pod
 
-**Tic Tac Toe:** https://github.com/codewithfan/tic-tac-toe
+**Tic Tac Toe:** https://github.com/stefanintech/tic-tac-toe
